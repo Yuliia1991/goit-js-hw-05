@@ -41,5 +41,3 @@ const getTotalBalanceByGender = (users,gender) => {return users.filter(user=>use
     console.log(getTotalBalanceByGender(clients, "male")); // 12053
     
     console.log(getTotalBalanceByGender(clients, "female")); // 8863
-    
-    
